@@ -67,6 +67,3 @@ The application will start on `http://localhost:8080`.
 ### 5. Delete Employee
 - **URL:** `/employees/{id}`
 - **Method:** `DELETE`
-
-- **User Name:** `sa`
-- **Password:** *(Leave empty)*
