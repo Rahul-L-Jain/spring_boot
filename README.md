@@ -68,10 +68,5 @@ The application will start on `http://localhost:8080`.
 - **URL:** `/employees/{id}`
 - **Method:** `DELETE`
 
-## 🗄️ Database
-The application uses an H2 in-memory database. You can access the H2 console to view the data directly.
-
-- **Console URL:** `http://localhost:8080/h2-console`
-- **JDBC URL:** `jdbc:h2:mem:testdb`
 - **User Name:** `sa`
 - **Password:** *(Leave empty)*
